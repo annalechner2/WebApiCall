@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ForwardUrl": "http://api.positionstack.com/v1/forward?access_key=e6849ae198bcf75a40377b34f8ef0ad9&query=",
+    "ReverseUrl": "http://api.positionstack.com/v1/reverse?access_key=e6849ae198bcf75a40377b34f8ef0ad9&query="
+  }
+}
